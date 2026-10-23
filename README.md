@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **studentMeta/studentMeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Timothy 👋
+
+🎓 **Computer Science Graduate (Cum Laude)** & **MSc in Data Science** student at the University of Namur (UNamur).  
+🛠️ Transitioning into software & data engineering after 13+ years of managing complex projects in the renovation sector.  
+
+**What I work with & explore:**
+* **Languages:** Python, Java, C/C++, Rust, SQL
+* **Focus areas:** Reservoir Computing (Echo State Networks), Time-Series & Signal Processing, Multi-Layered Backend Architecture (Spring Boot), and Compiler Design (ANTLR).
+* **Environment:** Linux (Fedora / Ubuntu Server), Docker, self-hosted infrastructure & local AI inference.
+
+📫 Reach me at: [timothy.lefebvre24@protonmail.com](mailto:timothy.lefebvre24@protonmail.com)
