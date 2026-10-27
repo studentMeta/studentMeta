@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Timothy 👋
 
 🎓 **Computer Science Graduate (Cum Laude)** & **MSc in Data Science** student at the University of Namur (UNamur).  
-🛠️ Transitioning into software & data engineering after 13+ years of managing complex projects in the renovation sector.  
+🛠️ Transitioning into software & data engineering after 13+ years in the renovation sector.  
 
 **What I work with & explore:**
 * **Languages:** Python, Java, C/C++, Rust, SQL
